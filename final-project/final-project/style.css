@@ -1,0 +1,2622 @@
+/* MacBook Air - 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: relative;
+width: 1280px;
+height: 5845px;
+
+background: #FFFFFF;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+isolation: isolate;
+
+width: 1280px;
+height: 5845px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 3662px;
+height: 9328px;
+left: calc(50% - 3662px/2);
+top: calc(50% - 9328px/2 + 1188.5px);
+
+background: #FFFCFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 45 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 1280px;
+height: 5013px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 1;
+
+
+/* MacBook Air - 2 */
+
+width: 1280px;
+height: 933px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+position: absolute;
+width: 1280px;
+height: 177px;
+left: 0px;
+top: 0px;
+
+
+
+/* 1723565949943 1 */
+
+position: absolute;
+width: 85px;
+height: 85px;
+left: 75px;
+top: 13px;
+
+background: url(1723565949943.jpg);
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 17px;
+
+position: absolute;
+width: 232px;
+height: 66px;
+left: 985px;
+top: 23px;
+
+
+
+/* Frame 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 21px;
+gap: 10px;
+
+width: 66px;
+height: 66px;
+
+background: #FFFFFF;
+border-radius: 33px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* ico-/-24-/-social-media-&-tools-/-twitter */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Icon-color */
+
+position: absolute;
+left: 34.85%;
+right: 34.85%;
+top: 37.88%;
+bottom: 36.36%;
+
+background: #333333;
+
+
+/* bounding_box:c2all */
+
+position: absolute;
+left: 31.82%;
+right: 31.82%;
+top: 31.82%;
+bottom: 31.82%;
+
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 21px;
+gap: 10px;
+
+width: 66px;
+height: 66px;
+
+background: #FFFFFF;
+border-radius: 33px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* instagram */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* ico-/-24-/-social-media-&-tools-/-instagram */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Icon-color */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #333333;
+
+
+/* bounding_box:c2all */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 21px;
+gap: 10px;
+
+width: 66px;
+height: 66px;
+
+background: #FFFFFF;
+border-radius: 33px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* gmail_outlined */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* ico-/-24-/-social-media-&-tools-/-gmail_outlined */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Icon-color */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #333333;
+
+
+/* bounding_box:c2all */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Frame 6 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 11px;
+
+position: absolute;
+width: 1155px;
+height: 55px;
+left: 75px;
+top: 110px;
+
+
+
+/* Frame 1 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 38px;
+gap: 10px;
+
+width: 222.2px;
+height: 55px;
+
+background: #000000;
+border-bottom: 3px solid #A37CB1;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Bottom */
+
+width: 56px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 38px;
+gap: 10px;
+
+width: 222.2px;
+height: 55px;
+
+background: #FFFFFF;
+border-bottom: 3px solid #A37CB1;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Bottom */
+
+width: 49px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 3 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 38px;
+gap: 10px;
+
+width: 222.2px;
+height: 55px;
+
+background: #FFFFFF;
+border-bottom: 3px solid #A37CB1;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Bottom */
+
+width: 116px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 4 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 38px;
+gap: 10px;
+
+width: 222.2px;
+height: 55px;
+
+background: #FFFFFF;
+border-bottom: 3px solid #A37CB1;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Bottom */
+
+width: 49px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 5 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px 38px;
+gap: 10px;
+
+width: 222.2px;
+height: 55px;
+
+background: #FFFFFF;
+border-bottom: 3px solid #A37CB1;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 1;
+
+
+/* Bottom */
+
+width: 189px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 1276px;
+height: 719px;
+left: 2px;
+top: 191px;
+
+
+
+/* 1 1 */
+
+width: 1276px;
+height: 717.75px;
+
+background: url(1.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 1280px;
+height: 163px;
+left: 0px;
+top: 747px;
+
+background: linear-gradient(180deg, rgba(255, 252, 255, 0) 0%, #FFFCFF 96.63%);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 1304px;
+height: 166px;
+left: -12px;
+top: 191px;
+
+background: linear-gradient(180deg, rgba(255, 252, 255, 0) 0%, #FFFCFF 96.63%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* MacBook Air - 3 */
+
+width: 1280px;
+height: 326px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 11 */
+
+position: absolute;
+width: 1280px;
+height: 364px;
+left: calc(50% - 1280px/2);
+top: calc(50% - 364px/2);
+
+
+
+/* twitter */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 489px;
+top: 423px;
+
+
+
+/* 1723565949943 1 */
+
+position: absolute;
+width: 345px;
+height: 345px;
+left: 91px;
+top: 19px;
+
+background: url(1723565949943.jpg);
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 17px;
+
+position: absolute;
+width: 232px;
+height: 66px;
+left: 839px;
+top: 158px;
+
+
+
+/* Frame 15 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 21px;
+gap: 10px;
+
+width: 66px;
+height: 66px;
+
+background: #FFFFFF;
+border-radius: 33px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* ico-/-24-/-social-media-&-tools-/-twitter */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Icon-color */
+
+position: absolute;
+left: 34.85%;
+right: 34.85%;
+top: 37.88%;
+bottom: 36.36%;
+
+background: #333333;
+
+
+/* bounding_box:c2all */
+
+position: absolute;
+left: 31.82%;
+right: 31.82%;
+top: 31.82%;
+bottom: 31.82%;
+
+
+
+/* Frame 14 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 21px;
+gap: 10px;
+
+width: 66px;
+height: 66px;
+
+background: #FFFFFF;
+border-radius: 33px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* instagram */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* ico-/-24-/-social-media-&-tools-/-instagram */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Icon-color */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #333333;
+
+
+/* bounding_box:c2all */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Frame 16 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 21px;
+gap: 10px;
+
+width: 66px;
+height: 66px;
+
+background: #FFFFFF;
+border-radius: 33px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* gmail_outlined */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* ico-/-24-/-social-media-&-tools-/-gmail_outlined */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Icon-color */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #333333;
+
+
+/* bounding_box:c2all */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Nyamu */
+
+position: absolute;
+width: 278px;
+height: 120px;
+left: 468px;
+top: 108px;
+
+font-family: 'Lobster';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 120px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Live2D Rigger / Artist */
+
+position: absolute;
+width: 598px;
+height: 167px;
+left: 473px;
+top: 258px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+
+/* MacBook Air - 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 70px 0px;
+gap: 10px;
+
+width: 1280px;
+height: 832px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 54 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+isolation: isolate;
+
+width: 1280px;
+height: 692px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 32 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 1474px;
+height: 692px;
+left: 294px;
+top: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 916px;
+height: 692px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 916px;
+height: 690px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 12 */
+
+width: 916px;
+height: 178px;
+
+background: #E6D7EB;
+border-radius: 50px 0px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Frame 30 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 34px;
+
+position: absolute;
+width: 916px;
+height: 394px;
+left: 0px;
+top: 232px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Rectangle 8 */
+
+width: 720px;
+height: 394px;
+
+background: url(5.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 5 */
+
+width: 720px;
+height: 394px;
+
+background: url(3.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 6 */
+
+width: 720px;
+height: 394px;
+
+background: url(1.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 5 */
+
+width: 720px;
+height: 394px;
+
+background: url(5.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 7 */
+
+width: 720px;
+height: 394px;
+
+background: url(3.png);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 33 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 25px;
+gap: 10px;
+
+position: absolute;
+width: 66px;
+height: 66px;
+left: 823px;
+top: 407px;
+
+background: #A37CB1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 55px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* arrow_forward */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ico-/-24-/-arrows-/-arrow_forward */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Icon-color */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 20.84%;
+bottom: 20.84%;
+
+background: #333333;
+
+
+/* bounding_box:c2all */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Work */
+
+position: absolute;
+left: 27.97%;
+right: 53.74%;
+top: 9.68%;
+bottom: 81.94%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Frame 28 */
+
+position: absolute;
+width: 294px;
+height: 391px;
+left: 84px;
+top: 301px;
+overflow: scroll;
+
+background: #FFFFFF;
+box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 65px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 254px;
+height: 343px;
+left: 20px;
+top: 24px;
+
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 20px;
+top: 24px;
+
+background: #FFFFFF;
+border-radius: 100px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 20px;
+top: 153px;
+
+background: #FFFFFF;
+border-radius: 100px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 20px;
+top: 282px;
+
+background: #FFFFFF;
+border-radius: 100px;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 20px;
+top: 24px;
+
+background: #A37CB1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* Frame 29 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 110px;
+
+position: absolute;
+width: 132px;
+height: 277px;
+left: 81px;
+top: 57px;
+
+
+
+/* Live2D Model */
+
+width: 104px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Live2D Animation */
+
+width: 132px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Paint */
+
+width: 39px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* MacBook Air - 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 66px 74px;
+gap: 10px;
+
+width: 1280px;
+height: 806px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Commission Guidelines */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 1132px;
+min-width: 1000px;
+max-width: 2000px;
+height: 674px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 49 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+isolation: isolate;
+
+width: 1132px;
+min-width: 1000px;
+max-width: 2000px;
+height: 200px;
+
+background: #E6D7EB;
+border-radius: 50px 50px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Commission Guidelines */
+
+position: absolute;
+width: 527px;
+height: 72px;
+left: 67px;
+top: 64px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 150%;
+/* identical to box height, or 72px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Bottom */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 7px;
+gap: 10px;
+isolation: isolate;
+
+position: absolute;
+width: 250px;
+height: 112px;
+right: 56px;
+top: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 60px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 2 */
+
+width: 98px;
+height: 98px;
+
+background: #E6D7EB;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 60px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Live2D Model */
+
+position: absolute;
+left: 50%;
+right: -4%;
+top: 41.07%;
+bottom: 41.07%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 51 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 80px;
+gap: 10px;
+
+width: 1132px;
+height: 2736px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 52 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 972px;
+height: 2576px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Scope & Style I accept illustration commissions, Vtuber model art, and Live2D rigging/animation. I do not accept rush orders (minimum turnaround is 3 months). I do not accept commissions from minors. Prohibited themes: R18, furry characters, and gore. If the requested style or content exceeds my skill range, I will still do my best, but I cannot guarantee results. Payment is still required. AI-generated images may be provided as reference only. Payment & Scheduling Once the commission is confirmed, a 30% deposit (or full payment) must be made within 3 days to secure your slot. If payment is not made → The commission will be considered canceled and the slot will not be held. Accepted payment methods: Bank Transfer / PayPal (PayPal fees +4% covered by the client). If the client chooses to cancel after work has begun → The deposit is non-refundable. Please ensure the intended usage of the work is clearly communicated (commercial / buyout). If the provided PSD is not properly layered or does not meet rigging requirements, the client should request revisions from their illustrator, or I can assist with adjustments for an additional fee. If there are delays due to the client illustrator delivering files late, I reserve the right to extend the schedule or withdraw from the commission. Revisions Each development stage includes up to 3 free revisions. Additional revisions will incur extra charges. If insufficient reference or unclear instructions result in repeated trial-and-error (“guessing-style revisions”), extra fees will be charged. After final rendering, only minor adjustments will be accepted — major revisions are not allowed. Delivery, Delays & Refunds Estimated delivery time: Within 3 months. If I am responsible for a delay, the client may request a partial refund based on completion progress.
+ (No refunds if the progress is over 90%.) Final files are stored for two weeks after delivery. After that, they will be deleted and cannot be resent. Public Display & Copyright If you do not want the commissioned work to be posted publicly, please inform me in advance.
+ Otherwise, it may be showcased on my portfolio or social media. NDA / Privacy request requires an additional +50% fee (I will not display or reuse the work). No unauthorized editing — Do not alter, filter, recolor, remove backgrounds, or remake the artwork. PSD files for Vtuber model art are included, but PSDs for other commissions require an additional fee. Usage Rights Commercial License You may use the artwork for VTuber activities, streaming, promotional materials, merchandise, etc. Author credit is required (e.g., Illustration by XXX). I retain copyrights and attribution rights. Buyout (Transfer of Copyright) The client receives full usage, resale, and modification rights. I will no longer use or showcase the work. Buyout price = double the original cost. Buyout does not include the Live2D project file. AI / NFT Policy It is strictly prohibited to use my work for AI dataset training, NFT projects, or unauthorized redistribution. Contact Primary contact method: Email — miaomubushimao@gmail.com I will reply within 3 business days. If you do not receive a response within 3 days, please follow up via Twitter / Instagram / Discord. Creator Rights Protection Right of Final Interpretation
+ All terms and conditions are subject to my final interpretation. Right to Refuse Service
+ I reserve the right to decline commissions that are unreasonable or violate these guidelines. Copyright Retention
+ Unless the commission is fully bought out, all copyright and moral rights remain with me. Breach of Terms
+ If the client violates the terms (e.g., unauthorized usage, lack of credit, modifying the work without permission), I reserve the right to request removal and pursue responsibility. Right to Publish Work
+ Unless an NDA / privacy fee is paid, I may display the commissioned work in my portfolio and social media. Non-Transferable License
+ Commercial usage rights are granted only to the client and cannot be transferred or resold to third parties. */
+
+width: 972px;
+height: 2576px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 150%;
+/* or 48px */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 19 */
+
+position: absolute;
+width: 2540px;
+height: 329px;
+left: calc(50% - 2540px/2);
+bottom: 2162px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 62.5%);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* MacBook Air - 9 */
+
+width: 1280px;
+height: 1064px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 39 */
+
+position: absolute;
+left: -0.7%;
+right: 5.86%;
+top: 6.78%;
+bottom: 6.78%;
+
+
+
+/* Frame 43 */
+
+position: absolute;
+width: 1368px;
+height: 1064px;
+left: 0px;
+top: 0px;
+
+
+
+/* Frame 62 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 994px;
+height: 940px;
+left: 63px;
+top: 62px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* Rectangle 16 */
+
+width: 994px;
+height: 178px;
+
+background: #E6D7EB;
+border-radius: 50px 50px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 294px;
+height: 260px;
+left: 910px;
+top: 707px;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 930px;
+top: 859px;
+
+background: #FFFFFF;
+border-radius: 100px;
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 294px;
+height: 260px;
+left: 910px;
+top: 707px;
+
+background: #FFFFFF;
+box-shadow: -10px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 65px;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 930px;
+top: 730px;
+
+background: #FFFFFF;
+border-radius: 100px;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 930px;
+top: 859px;
+
+background: #A37CB1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+
+/* Frame 30 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 110px;
+
+position: absolute;
+width: 104px;
+height: 148px;
+left: 1005px;
+top: 763px;
+
+
+
+/* Sticker */
+
+width: 53px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Live2D Model */
+
+width: 104px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 654px;
+height: 654px;
+left: 186px;
+top: 290px;
+
+background: url(f5d475da-4cbb-4efb-a875-47ca6fe0275f_.jpg);
+
+
+/* Frame 46 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 37px 35px;
+gap: 17px;
+
+position: absolute;
+width: 156px;
+height: 98px;
+left: 684px;
+top: 815px;
+
+background: #FFFFFF;
+border-bottom: 5px solid #A37CB1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+
+/* Buy it */
+
+width: 43px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ico-/-24-/-arrows-/-arrow_forward */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Icon-color */
+
+position: absolute;
+left: 62.18%;
+right: 25%;
+top: 42.86%;
+bottom: 42.86%;
+
+background: #333333;
+
+
+/* bounding_box:c2all */
+
+position: absolute;
+left: 60.9%;
+right: 23.72%;
+top: 37.76%;
+bottom: 37.76%;
+
+
+
+/* Shop */
+
+position: absolute;
+left: 60.47%;
+right: 27.34%;
+top: 11.65%;
+bottom: 79.09%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* MacBook Air - 10 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 1280px;
+height: 1052px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Collab artist / rigger */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-end;
+padding: 34px 70px;
+isolation: isolate;
+
+width: 1280px;
+height: 1052px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 61 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 49px 51px;
+isolation: isolate;
+
+width: 330px;
+height: 425px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -140px;
+z-index: 1;
+
+
+/* Rectangle 17 */
+
+width: 294px;
+height: 383px;
+
+background: #FFFFFF;
+box-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 65px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 38px;
+top: 41px;
+
+background: #FFFFFF;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Rectangle 18 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 38px;
+top: 299px;
+
+background: #FFFFFF;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 38px;
+top: 170px;
+
+background: #FFFFFF;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 254px;
+height: 85px;
+left: 38px;
+top: 41px;
+
+background: #A37CB1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Frame 30 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 110px;
+
+position: absolute;
+width: 49px;
+height: 277px;
+left: 141px;
+top: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Artist */
+
+width: 42px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rigger */
+
+width: 49px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Editor */
+
+width: 45px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 54 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+isolation: isolate;
+
+width: 950px;
+min-width: 900px;
+max-width: 2000px;
+height: 984px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Frame 49 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 950px;
+min-width: 900px;
+max-width: 2000px;
+height: 200px;
+
+background: #E6D7EB;
+border-radius: 50px 50px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Collab artist / rigger / editor */
+
+position: absolute;
+width: 696px;
+height: 58px;
+left: 50px;
+top: 71px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Frame 51 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 10px 50px;
+gap: 10px;
+
+width: 950px;
+height: 774px;
+
+background: #FFFFFF;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 55 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 50px;
+gap: 10px;
+
+width: 850px;
+height: 754px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 58 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;
+align-content: flex-start;
+padding: 0px 10px;
+gap: 60px;
+
+margin: 0 auto;
+width: 800px;
+min-width: 800px;
+height: 654px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 56 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 255px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+width: 255px;
+height: 255px;
+
+background: url(tLeu-Cq5_400x400.jpg);
+border: 4px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 327px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* @Pootachi1069 */
+
+width: 255px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 57 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 255px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+width: 255px;
+height: 255px;
+
+background: url(icon_aM5AmAkI4s.png);
+border: 4px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 327px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* @pano_N_pticon */
+
+width: 255px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 57 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 255px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+width: 255px;
+height: 255px;
+
+background: url(G5dgK5gaAAAocNa.jpg);
+border: 4px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 327px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* @sto607tw */
+
+width: 255px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 58 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 255px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+width: 255px;
+height: 255px;
+
+background: url(iUc9CyZh.jpg);
+border: 4px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 327px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* @Mochiillus */
+
+width: 255px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 59 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 255px;
+height: 297px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Rectangle 18 */
+
+box-sizing: border-box;
+
+width: 255px;
+height: 255px;
+
+background: url(72297bb20386b7e5.png);
+border: 4px solid #000000;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 327px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* @matty453917 */
+
+width: 255px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* MacBook Air - 11 */
+
+width: 1280px;
+height: 832px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
